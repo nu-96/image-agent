@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Output
+output/
+
+# Database
+database/
+
+# OS
+.DS_Store
